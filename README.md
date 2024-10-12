@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlos Reeina</h1>
+<h1 align="center">Hi 👋, I'm Carlos Reina</h1>
 <h3 align="center">Jr Software Developer and Management from Panama PA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crei03&label=Profile%20views&color=0e75b6&style=flat" alt="crei03" /> </p>
