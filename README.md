@@ -33,6 +33,9 @@ Soy Carlos Reina, desarrollador y gestor de software en Panamá. Actualmente tra
 **Lenguajes:**  
 Python · TypeScript · JavaScript · PHP
 
+**Base de Datos:**  
+SQL Server · MySQL · SQlite · PostgreSQL
+
 **Tecnologías y herramientas:**  
 Github Copilot · AWS · Git · GitHub · VS Code · Slack
 
