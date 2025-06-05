@@ -3,21 +3,6 @@
 
 ---
 
-### 🧑‍💻 Sobre mí  
-Soy Carlos Reina, desarrollador y gestor de software en Panamá. Actualmente trabajo en la creación de Plenty, un sistema digital para la gestión de eventos.
-
----
-
-### 🛠️ Lenguajes y herramientas
-
-**Lenguajes:**  
-Python · TypeScript · JavaScript · PHP
-
-**Tecnologías y herramientas:**  
-Github Copilot · AWS · Git · GitHub · VS Code · Slack
-
----
-
 ### 📬 Contacto  
 
 <a href="https://linkedin.com/in/crei03" target="_blank">
@@ -35,6 +20,21 @@ Github Copilot · AWS · Git · GitHub · VS Code · Slack
 <a href="https://wa.me/50761877476" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
 </a>
+
+---
+
+### 🧑‍💻 Sobre mí  
+Soy Carlos Reina, desarrollador y gestor de software en Panamá. Actualmente trabajo en la creación de Plenty, un sistema digital para la gestión de eventos.
+
+---
+
+### 🛠️ Lenguajes y herramientas
+
+**Lenguajes:**  
+Python · TypeScript · JavaScript · PHP
+
+**Tecnologías y herramientas:**  
+Github Copilot · AWS · Git · GitHub · VS Code · Slack
 
 ---
 
